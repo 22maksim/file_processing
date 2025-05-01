@@ -22,9 +22,6 @@
 ### - Apache POI (чтение Excel)
 
 ### - Springdoc OpenAPI (Swagger UI)
-
-### - Docker
-
 ---
 
 # Склонировать с git репозитория
